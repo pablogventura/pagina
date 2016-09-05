@@ -19,8 +19,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+THEME = "theme"
+
 # Blogroll
-#LINKS = (('Wikipedia', 'http://www.wikipedia.org/'),)
+LINKS = (('Arduino', 'https://www.arduino.cc/'),)
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/pablogventura/'),
