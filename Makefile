@@ -10,7 +10,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 FTP_HOST=mail.famaf.unc.edu.ar
 FTP_USER=pventura
-FTP_TARGET_DIR=/public_html/
+FTP_TARGET_DIR=public_html
 
 SSH_HOST=localhost
 SSH_PORT=22
