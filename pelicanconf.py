@@ -22,13 +22,16 @@ AUTHOR_FEED_RSS = None
 THEME = "theme"
 
 # Blogroll
-LINKS = (('Arduino', 'https://www.arduino.cc/'),)
+LINKS = ()#('Arduino', 'https://www.arduino.cc/'),)
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/pablogventura/'),
-          ("Wikipedia", "https://es.wikipedia.org/wiki/Usuario:Dr_Doofenshmirtz"),)
+          ("Wikipedia", "https://es.wikipedia.org/wiki/Usuario:Dr_Doofenshmirtz"),
+          ("Facebook", "https://www.facebook.com/pventuras"),)
           #("Thingiverse", "https://www.thingiverse.com/pablogventura/designs"),)
+          #facebook
+          
 
 DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
