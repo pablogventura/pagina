@@ -338,6 +338,10 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 		    background-image: url('../images/icons/wikipedia.png');
             background-size: 16px 16px;
         }
+		.social a[href*='thingiverse.com'] {
+		    background-image: url('../images/icons/thingiverse.png');
+            background-size: 16px 16px;
+        }
 
 /*
 	About

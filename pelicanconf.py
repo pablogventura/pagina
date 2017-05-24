@@ -27,8 +27,8 @@ LINKS = ()#('Arduino', 'https://www.arduino.cc/'),)
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/pablogventura/'),
           ("Wikipedia", "https://es.wikipedia.org/wiki/Usuario:Dr_Doofenshmirtz"),
-          ("Facebook", "https://www.facebook.com/pventuras"),)
-          #("Thingiverse", "https://www.thingiverse.com/pablogventura/designs"),)
+          ("Facebook", "https://www.facebook.com/pventuras"),
+          ("Thingiverse", "https://www.thingiverse.com/pablogventura/designs"),)
           #facebook
           
 
