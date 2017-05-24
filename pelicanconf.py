@@ -26,7 +26,8 @@ LINKS = (('Arduino', 'https://www.arduino.cc/'),)
 
 # Social widget
 SOCIAL = (('GitHub', 'https://github.com/pablogventura/'),
-          ("Wikipedia", "https://es.wikipedia.org/wiki/Usuario:"),)
+          ("Wikipedia", "https://es.wikipedia.org/wiki/Usuario:Dr_Doofenshmirtz"),)
+          #("Thingiverse", "https://www.thingiverse.com/pablogventura/designs"),)
 
 DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
